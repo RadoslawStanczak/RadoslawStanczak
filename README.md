@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+https://github-readme-streak-stats.herokuapp.com/?user=radoslaw-stanczak
 
 <!---
 RadoslawStanczak/RadoslawStanczak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
