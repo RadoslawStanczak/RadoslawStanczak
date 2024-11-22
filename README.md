@@ -1,25 +1,18 @@
 - 👋 Hi, I’m @RadoslawStanczak
 - 👀 I’m interested in programming and gamming
 
-
-## 💻 Tech stack
+## 💻 Tech Stack
 ![Static Badge](https://img.shields.io/badge/Kotlin-%23B125EA?logo=Kotlin&logoColor=white)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f?logo=mysql&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C?logo=bootstrap&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/Android-%233DDC84?logo=android&logoColor=white)
-![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C?logo=bootstrap&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f?logo=mysql&logoColor=white)
+![Microsoft SQL Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23007AFF?logo=microsoftsqlserver&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white)
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslawStanczak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!---
-RadoslawStanczak/RadoslawStanczak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📈 Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadoslawStanczak&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=RadoslawStanczak&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
