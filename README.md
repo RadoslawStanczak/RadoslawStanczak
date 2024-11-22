@@ -9,6 +9,9 @@
 ![CSS Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f?logo=mysql&logoColor=white)
 ![Microsoft SQL Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23007AFF?logo=microsoftsqlserver&logoColor=white)
+![Postman Badge](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
+![GitLab Badge](https://img.shields.io/badge/GitLab-%23181717?logo=gitlab&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white)
 
 ## 📈 Github Stats
